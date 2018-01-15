@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa501787-2e53-4606-9ff2-7e08ba7f414f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/payment.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/config/test.neon" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/testCSOB.iml" afterPath="$PROJECT_DIR$/.idea/testCSOB.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
-      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -186,12 +179,12 @@
       <workItem from="1515856219137" duration="11021000" />
       <workItem from="1515948981220" duration="7301000" />
       <workItem from="1516033016786" duration="728000" />
-      <workItem from="1516033768656" duration="2897000" />
+      <workItem from="1516033768656" duration="3273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21947000" />
+    <option name="totallyTimeSpent" value="22323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
