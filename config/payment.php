@@ -1,6 +1,6 @@
 <?php
-require("test.neon");
-require("../vendor/autoload.php");
+
+require("vendor/autoload.php");
 
 use Nette\Neon\Neon;
 use OndraKoupil\Csob\Config;
@@ -14,8 +14,9 @@ use OndraKoupil\Csob\Payment;
  * Time: 17:39
  */
 //Načtení neon souboru
-$config = Neon::decode(file_get_contents('config/test.neon'));
+
 function gatewayConfig(){
+    $config = Neon::decode(file_get_contents('config/test.neon'));
     $gatewayConfig = new Config(
         $config['gateway']['merchant_id'],
         $config['gateway']['private_public_key_path'],
