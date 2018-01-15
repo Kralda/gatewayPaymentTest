@@ -1,0 +1,6 @@
+gateway:
+    merchant_id: A3051azixU
+    private_public_key_path: keys/rsa_A3051azixU.key
+    public_bank_key_path: keys/bank.pub
+    shop_title: Obchůdek
+    return_path: http://kingtest.8u.cz/return.php   # Adresa, kam se mají zákazníci vracet poté, co zaplatí
